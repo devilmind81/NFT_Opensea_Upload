@@ -1,7 +1,9 @@
 # NFT_Opensea_Upload
 
 1. Download Python and Chrome browser 
-2. pip install -r requirements.txt
+2. Clone this Repo
+3. pip install -r requirements.txt
+4. Create folder chrome_profile
 5. python openseaupload.py (Run the script)
 7. Press the "Open Chrome Browser" button
 8. Set up your metamask wallet and login to Opensea using your wallet
