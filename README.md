@@ -1,5 +1,4 @@
-# NFTs_Upload_To_OpenSea
-YOUTUBE VIDEO -> https://www.youtube.com/watch?v=dk_N53vnJiY
+# NFT_Opensea_Upload
 
 1. Download Python and Chrome browser 
 2. pip install -r requirements.txt
